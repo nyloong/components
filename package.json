@@ -1,0 +1,24 @@
+{
+  "name": "@nyloong/components",
+  "version": "0.2.0",
+  "description": "",
+  "author": "猛火Fierflame",
+  "license": "MIT",
+  "main": "index.mjs",
+  "type": "module",
+  "unpkg": "./index.min.js",
+  "jsdelivr": "./index.min.js",
+  "exports": {
+    ".": "./index.mjs",
+    "./Angle.mjs": "./Angle.mjs",
+    "./Breadcrumb.mjs": "./Breadcrumb.mjs",
+    "./Menu.mjs": "./Menu.mjs",
+    "./Movable.mjs": "./Movable.mjs",
+    "./RollDigit.mjs": "./RollDigit.mjs",
+    "./Angle": "./Angle.mjs",
+    "./Breadcrumb": "./Breadcrumb.mjs",
+    "./Menu": "./Menu.mjs",
+    "./Movable": "./Movable.mjs",
+    "./RollDigit": "./RollDigit.mjs"
+  }
+}
